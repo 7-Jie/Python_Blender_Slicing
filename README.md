@@ -1,4 +1,4 @@
-# Blender Cross-Sectional Image Script
+# Python-driven Blender Cross-Sectional Image Script
 
 This script automates the creation of cross-sectional images from STL files using Blender. It positions a plane to intersect the STL object and captures orthographic views for each cross-section.
 
